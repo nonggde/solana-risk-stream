@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import http from 'node:http';
 import { Connection, PublicKey, ParsedTransactionWithMeta } from '@solana/web3.js';
 import { assessTransaction } from './risk.js';

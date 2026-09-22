@@ -1,3 +1,5 @@
+import 'dotenv/config';
+
 export interface SolamiEvent {
   type?: string;
   slot?: number;
