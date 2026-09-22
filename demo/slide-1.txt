@@ -1,0 +1,8 @@
+﻿LIVE MAINNET CHECK
+
+Latest confirmed slot: 449411967
+Latest blockhash: HthP6aPvRqN1ifi5gJ7Bem4URL17YCwm9SMfAQPsMCJ3
+RPC configured: True
+Solami configured: True
+
+No signing, custody, or transaction broadcast.

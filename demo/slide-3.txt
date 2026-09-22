@@ -1,0 +1,8 @@
+﻿HOW TO RUN
+
+1. Copy .env.example to .env
+2. Add your own Solami RPC URL and key
+3. npm install && npm run dev
+4. Open /api/latest or the local dashboard
+
+Built for builders, traders, and security teams.

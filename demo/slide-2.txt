@@ -1,0 +1,9 @@
+﻿DETERMINISTIC RISK AUDIT
+
+Status: 
+Score: 0
+
+Signals include failed transactions, large SOL movement,
+token write fan-out, and unusual account fan-out.
+
+The same rules can consume RPC, WebSocket, or webhook data.
